@@ -129,7 +129,7 @@ h1 {
 @media only screen and (max-width: 600px) {
 .again{
   position: relative;
-  left: 50%;
+  text-alignment : centre;
 }
 .left{
   width: 25rem;
