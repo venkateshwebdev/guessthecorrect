@@ -121,3 +121,21 @@ h1 {
   font-size: 1.4rem;
   padding-bottom: 10%;
 }
+
+
+
+
+
+@media only screen and (max-width: 600px) {
+.again{
+  position: relative;
+  left: 50%;
+}
+.left{
+  width: 25rem;
+
+}
+.right{
+  width: 25rem;
+}
+}
